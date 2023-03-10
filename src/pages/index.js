@@ -18,6 +18,8 @@ export default function Home() {
           <h1>Hey !!!!</h1>
           <Image src="/next.svg" alt="logo" width='100' height="100"/>
         </Circle>
+
+        <Circle>hello this a sample</Circle>
       </main>
     </>
   );
