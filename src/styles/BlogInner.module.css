@@ -1,0 +1,11 @@
+.main {
+    background: rgb(146, 240, 182);
+    margin: 10px;
+    padding: 20px;
+}
+.button {
+    width: fit-content;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
